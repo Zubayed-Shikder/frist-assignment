@@ -1,0 +1,31 @@
+.sec-1{
+    font-family: 'Ubuntu', sans-serif;
+}
+.h1-color{
+    color: burlywood;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+h1{
+    font-size: 50px;
+}
+.h1-border{
+    border-left: 5px solid burlywood;
+}
+.half-width img{
+    width: 70%;
+}
+.a-button{
+    background-color: burlywood;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
