@@ -4,7 +4,7 @@
 .h1-color{
     color: burlywood;
 }
-section{
+.flex-attach{
     display: flex;
 }
 .half-width{
@@ -19,7 +19,7 @@ h1{
     border-left: 5px solid burlywood;
 }
 .half-width img{
-    width: 70%;
+    width:70%;
 }
 .a-button{
     background-color: burlywood;
@@ -28,4 +28,36 @@ h1{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.align{
+    text-align: center;
+}
+.image-size img{
+    width: 30%;
+}
+.toto{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.bg1{
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 10px;
+}
+.bg2 {
+    background-color: papayawhip;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 10px;
+}
+.bg3{
+    background-color:skyblue;
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 10px;
 }
