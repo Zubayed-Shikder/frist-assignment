@@ -9,7 +9,7 @@ section{
     font-family: 'Ubuntu', sans-serif;
 }
 .h1-color{
-    color: burlywood;
+    color: rgb(241, 162, 57);
 }
 .flex-attach{
     display: flex;
@@ -23,13 +23,13 @@ h1{
     font-size: 50px;
 }
 .h1-border{
-    border-left: 5px solid burlywood;
+    border-left: 5px solid rgb(241, 162, 57);
 }
 .half-width img{
     width:70%;
 }
 .a-button{
-    background-color: burlywood;
+    background-color: rgb(241, 162, 57);
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 5px;
@@ -114,6 +114,10 @@ footer{
     font-size:50px;
 }
 .fff{
-    color:burlywood;
+    color:rgb(241, 162, 57);
     
+}
+#s123{
+    padding-right:50px;
+    text-align: justify;
 }
