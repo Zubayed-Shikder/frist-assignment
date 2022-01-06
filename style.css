@@ -69,14 +69,19 @@ h3{
     text-align: justify;
     border-radius: 10px;
 }
-.sec-3{
-    display: flex;
-}
 .sec-3img img{
     width:80%;
 }
 .sec-3img{
     background-image:url(dream-bg.png);
+    background-repeat: no-repeat;
+    padding-left:7%;
+}
+.bg-2 img{
+    width:80%;
+}
+.bg-2{
+    background-image:url(shape-1.png);
     background-repeat: no-repeat;
     padding-left:7%;
 }
@@ -88,4 +93,10 @@ h3{
 }
 p{
     font-size:25px;
+}
+.sec-4w{
+    padding-left:7%;
+}
+.bgr{
+    background-image: none;
 }
