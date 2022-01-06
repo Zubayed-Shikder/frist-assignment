@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 section{
     margin:0;
     margin-bottom:100px;
@@ -99,4 +101,19 @@ p{
 }
 .bgr{
     background-image: none;
+}
+footer{
+    text-align: center;
+    color:whitesmoke;
+    height:125px;
+    background-color: black;
+    margin: 0;
+}
+#ff{
+    font-family: 'Moon Dance', cursive;
+    font-size:50px;
+}
+.fff{
+    color:burlywood;
+    
 }
