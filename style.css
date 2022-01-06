@@ -1,3 +1,8 @@
+
+section{
+    margin:0;
+    margin-bottom:100px;
+}
 .sec-1{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -33,11 +38,14 @@ h1{
     text-align: center;
 }
 .image-size img{
-    width: 30%;
+    width: 40%;
+}
+h3{
+    font-size:30px;
 }
 .toto{
     display: flex;
-    padding-left: 5%;
+    padding-left:5%;
     padding-right: 5%;
 }
 .bg1{
@@ -60,4 +68,24 @@ h1{
     padding: 10px;
     text-align: justify;
     border-radius: 10px;
+}
+.sec-3{
+    display: flex;
+}
+.sec-3img img{
+    width:80%;
+}
+.sec-3img{
+    background-image:url(dream-bg.png);
+    background-repeat: no-repeat;
+    padding-left:7%;
+}
+.sec-3w{
+    padding-right:10%; 
+}
+.head3{
+    font-size:50px;
+}
+p{
+    font-size:25px;
 }
